@@ -1,0 +1,7 @@
+order_id,region,units,unit_price,discount,revenue,above_average
+1,East,2,15000,0.0,30000.0,False
+2,West,1,80000,0.05,76000.0,True
+3,East,3,12000,0.1,32400.0,False
+4,North,1,15000,0.0,15000.0,False
+6,West,4,12000,0.05,45600.0,False
+7,East,2,80000,0.0,160000.0,True

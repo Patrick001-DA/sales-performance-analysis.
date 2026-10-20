@@ -1,0 +1,4 @@
+region,orders,units,revenue,avg_order_revenue
+East,3,7,222400.0,74133.33333333333
+West,2,5,121600.0,60800.0
+North,1,1,15000.0,15000.0
